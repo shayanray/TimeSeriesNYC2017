@@ -2,7 +2,7 @@
 
 ## Abstract:
 ----------
-In this project, we have analyzed the NYPD Complaint Data from NYC Open Data. \cite{nycod} Our objective is to empower NYPD with exploratory data analysis and predictions so that they utilize their time and energy in the most effective way. That would result in better hot-spot policing(surveillance of crime prone zones), judicious staff deployment across boroughs, time-dependant vigilance and narrow down plausible root-causes in crime trends.
+In this project, we have analyzed the NYPD Complaint Data from NYC Open Data. Our objective is to empower NYPD with exploratory data analysis and predictions so that they utilize their time and energy in the most effective way. That would result in better hot-spot policing(surveillance of crime prone zones), judicious staff deployment across boroughs, time-dependant vigilance and narrow down plausible root-causes in crime trends.
 
 
 ## Introduction:
